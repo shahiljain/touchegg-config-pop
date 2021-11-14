@@ -4,8 +4,10 @@ A touchegg configuration for windows like gesture navigation on Pop!_OS 21.04
 1. Swipe Up Three Fingers: Workspaces
 2. Swipe Down Three Fingers: Show Desktop
 3. Swipe Right Three Fingers: Switch Apps (Alt+Tab)
-4. Swipe Left/Right Four Fingers: Move Up/Down Workspaces
+4. Swipe Up/Down Four Fingers: Move Up/Down Workspaces
+5. Swipe Left/Right Four Fingers: Show All Apps
 # Installation
+1. Install X11 Gestures Gnome extension (Necessary to enable 4 Finger swipe up/down gestures)
 1. Dowload the touchegg.conf file
 2. Paste it to ~/.config/touchegg
 # Notes
