@@ -1,6 +1,6 @@
 # touchegg-config-pop
 A touchegg configuration for windows like gesture navigation on Pop!_OS 21.04
-# Overview:
+# Overview
 1. Swipe Up Three Fingers: Workspaces
 2. Swipe Down Three Fingers: Show Desktop
 3. Swipe Right Three Fingers: Switch Apps (Alt+Tab)
